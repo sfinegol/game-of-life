@@ -31,7 +31,7 @@ public class HighLife implements RuleSet {
         else {
             return isAlive;
         }
-        //this comment has been inserted so I can commit and push to GitHub
+
     }
 }
 
